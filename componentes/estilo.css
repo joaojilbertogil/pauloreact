@@ -1,0 +1,60 @@
+.titulo{
+    text-align: center;
+    background-color: silver;
+    font-size: large;
+    
+
+}
+
+.titulo2{
+    text-align: center;
+    background-color: silver;
+    font-size: 90%;
+    position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 700px;
+  height: 300px;
+
+    
+    
+
+}
+
+.tex{
+  text-align: left;
+    background-color: silver;
+    font-size: 300%;
+    position: fixed;
+  top: 150%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 700px;
+  height: 300px;
+}
+
+.aguarde{
+  text-align: center;
+    background-color: silver;
+    font-size: 200%;
+    position: fixed;
+  top: 240%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 100px;
+}
+
+.fim{
+  text-align: center;
+    background-color: silver;
+    font-size: 210%;
+    position: fixed;
+  top: 300%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300%;
+  height: 100px;
+}
+
